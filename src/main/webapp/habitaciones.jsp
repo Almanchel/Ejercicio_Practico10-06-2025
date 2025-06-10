@@ -28,7 +28,7 @@
 <link rel="stylesheet" href="styles/style.css">
 <link rel="stylesheet" href="styles/style_index.css">
 </head>
-<body>
+<body>  
 
 	<%@include file="includes/cabecera.jsp"%>
 
