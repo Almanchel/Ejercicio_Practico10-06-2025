@@ -1,6 +1,6 @@
 	<header>
         <div id="cabecera_izq">
-           <img src="imagenes/logohotel.jpg" height="120px" width="120px" >
+           <img id="imagen"src="imagenes/logohotel.jpg" height="120px" width="120px" >
         </div>
 
         <div id="cabecera_cen">

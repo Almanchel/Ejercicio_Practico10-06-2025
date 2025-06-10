@@ -99,7 +99,7 @@ nav a:visited {
 }
 
 nav a:hover {
-	background-color: var(--colorPrincipalOscuro);
+	background-color: #fee46d;
 	color: var(--colorPrincipalClaro);
 }
 
@@ -172,4 +172,34 @@ footer a:hover {
 
 footer a:active {
 	color: var(--colorContrasteOscuro);
+}
+
+#imagen{
+	border-radius: 20px;
+}
+
+#detalles{
+	
+	padding: 5%;
+	
+}
+
+#servicios{
+	padding: 5%;
+}
+
+#section_tabla{
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	
+	
+}
+
+table{
+	 margin: 20px 0;
+	 font-size: 16px;
+	 text-align: center;
 }

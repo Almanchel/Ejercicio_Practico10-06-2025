@@ -3,10 +3,11 @@
 
 #cabecera_movil{
 	
+	padding: 5%;
 	display:flex;
 	flex-direction: row;
-	justify-content: flex-start;
-	align-items: flex-start;
+	justify-content: center;
+	align-items: center;
 	
 }
 
@@ -30,5 +31,5 @@ main li{
 }
 
 ul{
-	margin-bottom: 10px;
+	
 }

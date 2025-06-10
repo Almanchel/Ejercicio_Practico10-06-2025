@@ -18,10 +18,10 @@
 
 	<main>
 		<section id="cabecera_movil">
-				<section>
-					<img src="imagenes/habitación.jpg" height="200px" width="350px">
+				<section >
+					<img  id="imagen"src="imagenes/habitación.jpg" height="200px" width="350px">
 				</section>
-			<section>
+			<section >
 				<h2>Habitación Suite 5 estrellas</h2>
 				<p>Disfruta del confort exclusivo de nuestra suite de 5 estrellas, con amplios ventanales que ofrecen
 					vistas panorámicas inigualables. Elegancia, diseño moderno y 
@@ -42,7 +42,7 @@
 		
 
 
-		<section>
+		<section id="detalles">
 			<h2>Detalles del producto</h2>
 			<h3>Superficie:  </h3>
 			<p>60 m² aprox.
@@ -73,7 +73,7 @@
 		</section>
 
 
-		<section>
+		<section id="servicios">
 			<h2>Servicios</h2>
 			<ol>
 				<p>

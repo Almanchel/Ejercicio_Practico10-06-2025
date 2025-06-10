@@ -35,7 +35,7 @@
 	<%@include file="includes/menu.jsp"%>
 
 	<main>
-		<section>
+		<section  id="section_tabla" >
 			<table border 1>
 				<thead>
 					<tr>
