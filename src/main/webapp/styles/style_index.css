@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+#cabecera_movil{
+	
+	display:flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+	
+}
+
+p{
+	
+	font-size: 18px;
+	margin: 0 0 10px 0;
+}
+
+h2{
+	font-family: var(--fuenteDetalle);
+	font-size: 56px;
+	margin: 0 0 10px 0;
+}
+
+main li{
+	font-size: 18px;
+	color:red !important;
+	margin-left: 10px;
+	
+}
+
+ul{
+	margin-bottom: 10px;
+}
