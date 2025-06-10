@@ -1,8 +1,8 @@
 :root {
-	--colorPrincipal: #6B8E23; /* Verde oliva */
-	--colorPrincipalClaro: #A2B55F; /* Verde oliva claro */
-	--colorPrincipalOscuro: #4F6A16; /* Verde oliva oscuro */
-	--colorContraste: #D4AF37; /* Amarillo dorado */
+	--colorPrincipal: #e2c105;
+	--colorPrincipalClaro: #a99103;
+	--colorPrincipalOscuro: #e2c105; 
+	--colorContraste: #a99103; 
 	--colorContrasteOscuro: #A4851A; /* Amarillo oscuro */
 	--colorContrasteClaro: #fbe298; /* Amarillo claro */
 	--fondoClaro: #EEF4E4; /* Verde pastel muy claro */
